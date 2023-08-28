@@ -2,7 +2,7 @@ function App() {
   return (
     <>
       <main className="container mx-auto px-4 py-6 pt-20 lg:py-10 lg:pt-24">
-        <h1 className="text-2xl lg:text-3xl font-semibold text-center lg:text-left">
+        <h1 className="text-2xl md:text-3xl lg:text-3xl font-semibold text-center lg:text-left">
           Depositing Collateral
         </h1>
         <section className="my-6">
